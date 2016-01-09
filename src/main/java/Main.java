@@ -13,7 +13,7 @@ import java.util.List;
  * Created by Kolos on 09.01.2016.
  */
 public class Main {
-
+    //random comment to see how git works DELETE LATER
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\Kolos\\Desktop\\chromedriver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
